@@ -1,0 +1,5 @@
+start
+new i number
+set i 18
+log string "Привет мир, мне " >> i >> " лет"
+finish
