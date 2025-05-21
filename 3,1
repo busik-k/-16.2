@@ -1,0 +1,5 @@
+start
+new i number
+set i 4 
+log string "2+2=" >> i
+finish
